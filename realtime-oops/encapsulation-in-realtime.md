@@ -40,3 +40,9 @@ class EncapsulationExample:
 ```
 
 In this example, both the `get` and `set` functions updating the original `self.name` variable
+
+
+
+### Using @property to replace custom \`get\` and \`set\` functions
+
+Usage example:
