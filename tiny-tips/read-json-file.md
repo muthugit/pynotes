@@ -1,5 +1,7 @@
 # Read JSON file
 
+### Side 2
+
 ```python
 import json
 class JSONReader:
@@ -14,3 +16,4 @@ if __name__ == "__main__":
     print(reader.read())
 ```
 
+### Side 3
